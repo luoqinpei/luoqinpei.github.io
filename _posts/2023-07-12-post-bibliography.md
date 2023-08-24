@@ -2,7 +2,7 @@
 layout: distill
 title: BEING DRAGGED UNCONSCIOUSLY
 description: A commentary on recommender algorithms
-tags: recommender-algorithms
+tags: recommender-algorithm
 categories: review
 date: 2023-08-18
 related_posts: false

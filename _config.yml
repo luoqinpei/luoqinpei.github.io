@@ -267,7 +267,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['recommender system'] # these tags will be displayed on the front page of your blog
+display_tags: ['recommender-algorithm'] # these tags will be displayed on the front page of your blog
 display_categories: ['review'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -412,19 +412,19 @@ medium_zoom:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
