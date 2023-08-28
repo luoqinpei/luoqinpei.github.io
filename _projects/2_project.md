@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basys-Robot
-description: An auto seek pilot with obstacle avoidance Bluetooth control car based on Digilent Basys3 and Verilog.
+description: An auto-seek pilot with obstacle avoidance and Bluetooth control based on Digilent Basys3 and Verilog.
 img: assets/img/pj2/3.jpg
 importance: 2
 category: work
