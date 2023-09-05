@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! My name is Qinpei Luo, and you can just call me Sheldon. I am a senior year undergraduate student from School of Electronics Engineering and Computer Science, Peking University, where I am now pursuing my Bachelor's degree of Science. I am now advised by [Dr. Boya Di](https://ele.pku.edu.cn/dzxxen/info/1023/1583.htm) from School of Electronics, Peking University. My major interest lies in AI for wireless communications, including reinforcement learning, meta learning and so on. I am also interested in emerging technology in 5/6G like reconfigurable intelligent surfaces. I am looking forward to combining AI and wireless communication in the future development of new technology of AR/VR, IoT, UAV and so on.
 
-**I will be graduating from Peking University next July 2024, and I am currently applying for PhD programs outside mainland China. If you are interested in me, I would be more **than glad that you could reach out to me.**
+**I will be graduating from Peking University next July 2024, and I am currently applying for PhD programs outside mainland China. If you are interested in me, I would be more than glad that you could reach out to me.**
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
