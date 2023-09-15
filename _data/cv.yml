@@ -52,6 +52,12 @@
       description:
         # - The lab is affiliated with the School of Electronics, Peking University.
 
+    - title: Reviewer
+      institution: IEEE Internet of Things Journal
+      year: 2023.9
+      description:
+        # - The lab is affiliated with the School of Electronics, Peking University.
+
     # - title: Visiting Professor
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
