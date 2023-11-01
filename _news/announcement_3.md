@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been developing some VR environments with Unreal Engine these days. To share my experience I wrote a tutorial for starters who want to use UE to create their own virtual worlds, check [here](https://github.com/luoqinpei/assets/pdf/UE.pdf). 
+I have been developing some VR environments with Unreal Engine these days. To share my experience I wrote a tutorial for starters who want to use UE to create their own virtual worlds, check [here](https://luoqinpei.github.io/assets/pdf/UE.pdf). 
