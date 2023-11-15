@@ -1,0 +1,4 @@
+[1] Student Member of the Association for Computing Machinery (ACM)
+[2] Student Member of the Institute of Electrical and Electronics Engineers (IEEE)
+[3] IEEE Communications Society Membership
+[4] IEEE Vehicular Technology Society Membership
