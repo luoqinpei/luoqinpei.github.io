@@ -4,7 +4,7 @@ title: Auto-Piano Based On Audio Detection
 description: A piano based on Raspberry Pi that can identify music and play it with the piano.
 img: assets/img/pj1/12.jpg
 importance: 1
-category: work
+category: course-work
 ---
 
 <p style="text-align:justify; text-justify:inter-ideograph;">This project builds an auto-piano based on Raspberry 4bi and other peripherals, which can identify the external playing music and play it with the piano. The whole project can be divided into the software part and hardware part.

@@ -4,7 +4,7 @@ title: E-Rack
 description: A smart clothes hanger.
 img: assets/img/pj3/title.jpg
 importance: 3
-category: work
+category: course-work
 ---
 ## <font color="#dd0000"> Description </font><br />
 
