@@ -67,8 +67,10 @@
     - title: Reviewer
       institution: IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)
       year: Nov 2023
-      description:
-        # - The lab is affiliated with the School of Electronics, Peking University.
+
+    - title: Reviewer
+      institution: IEEE International Conference on Communications
+      year: Dec 2023
 
 # - title: Open Source Projects
 #   type: time_table
