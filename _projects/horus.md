@@ -2,7 +2,7 @@
 layout: distill
 title: Horus
 description: Blind-area Detection and Communication based on Reconfigurable Intelligent Surface
-img: assets/img/horus/2.gif
+img: assets/img/horus/sys2.gif
 importance: 1
 category: research
 authors:
