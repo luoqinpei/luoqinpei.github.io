@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: pro_fig.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email: qil057@ucsd.edu</p>
