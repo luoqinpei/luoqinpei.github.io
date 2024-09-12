@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://luoqinpei.github.io/sitemap.xml
