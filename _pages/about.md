@@ -5,13 +5,13 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Email: luoqinpei@pku.edu.cn</p>
-    <p>Tel: +86 15281627548</p>
-    <p>5 Yiheyuan Rd</p>
-    <p>Haidian District, Beijing, China, 100871</p>
+    <p>Email: qil057@ucsd.edu</p>
+    <p>Tel: +1 858-405-9771/p>
+    <p>4067 Miramar Street #5135</p>
+    <p>La Jolla, CA, USA, 92092</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,9 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Qinpei Luo (In Chinese: 罗钦培), and you can just call me Sheldon. I am a senior year undergraduate student from School of Electronics Engineering and Computer Science, Peking University, where I am now pursuing my Bachelor's degree of Science. I am now advised by [Dr. Boya Di](https://ele.pku.edu.cn/dzxxen/info/1023/1583.htm) from School of Electronics, Peking University. My major interest lies in AI for wireless communications, including reinforcement learning, meta learning and so on. I am also interested in emerging technology in 5/6G like reconfigurable intelligent surfaces. I am looking forward to combining AI and wireless communication in the future development of new technology of AR/VR, IoT, UAV and so on.
+Hello! My name is Qinpei Luo (In Chinese: 罗钦培), and you can just call me Sheldon. I am a first year PhD student in the department of Electrical and Computer Engineering in the University of California, San Diego. I am now advised by [Dr. Xinyu Zhang](http://xyzhang.ucsd.edu). My major interest lies in mobile computing and wireless networks, especially the implementation of machine learning on these topics.
 
-**I will be graduating from Peking University next July 2024, after that I will join Dr. Xinyu Zhang's group at University of California, San Diego in September, where I will be pursuing a Philosophy of Doctor degree.**
+Previously, I earned my Bachelor's degree in Electronics Information Engineering from School of Electronics Engineering and Computer Science, Peking University, where I am honored to be advised by [Dr. Boya Di](https://sites.google.com/view/boya-di/homepage) from School of Electronics, Peking University.
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
