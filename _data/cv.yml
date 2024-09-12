@@ -59,6 +59,10 @@
         # - The lab is affiliated with the School of Electronics, Peking University.
 
     - title: Reviewer
+      institution: IEEE International Conference on Communications
+      year: 2023
+
+    - title: Reviewer
       institution: IEEE Internet of Things Journal
       # year: 2023
       description:
@@ -73,10 +77,6 @@
     - title: Reviewer
       institution: IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)
       # year: 2023
-
-    - title: Reviewer
-      institution: IEEE International Conference on Communications
-      year: 2023
 
     - title: Reviewer
       institution: IEEE Transactions on Machine Learning in Communications and Networking
