@@ -9,8 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email: qil057@ucsd.edu</p>
-    <p>Tel: +1 858-405-9771/p>
-    <p>4067 Miramar Street #5135</p>
+    <p>Tel: +1 858-405-9771 </p>
+    <p>3180 Voigt Dr, 2301</p>
     <p>La Jolla, CA, USA, 92092</p>
 
 news: true  # includes a list of news items
