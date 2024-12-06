@@ -7,4 +7,4 @@ related_posts: false
 
 Our demo *Meta2Locate: Meta Surface Enabled Indoor Localization in Dynamic Environments* 
 
-is accepted to the *Mobihoc 2023*. Check the [publications](https://luoqinpei.github.io/publications/).
+is accepted to the *Mobihoc 2023*.

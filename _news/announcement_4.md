@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our article about 3GPP standardization on extended reality has been released on *GetMobile*. Check the [publications](https://luoqinpei.github.io/publications/).
+Our article about 3GPP standardization on extended reality has been released on *GetMobile* as the cover article.
