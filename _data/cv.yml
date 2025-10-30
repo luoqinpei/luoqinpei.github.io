@@ -56,8 +56,14 @@
       institution: Microsoft Research Asia
       year: 2025.06-2025.09
       description:
-        - Worked with group of the AI and Sensing for Life and Beyond.
-        # - Description 2.
+        - Worked in group of the AI and Sensing for Life and Beyond.
+
+    - title: Research Intern
+      institution: Microsoft Research Redmond
+      year: 2025.10-2026.01
+      description:
+        - 
+
 
 # - title: Open Source Projects
 #   type: time_table
@@ -80,20 +86,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Wireless Communication and Networks
-      items: 
-        - 5G and beyond
-        - Internet of Things
     - title: Mobile Computing
       items:
         - Edge Computing
         - Sensing and Localization
         - Augmented Reality and Virtual Reality
-    - title: Machine Learning
+    - title: Artificial Intelligence
       items:
-        - Deep Learning
-        - Reinforcement Learning
-        - Transfer and Meta learning
+        - Machine Learning
+        - Large Language Models
+
 
 - title: Other Interests
   type: list

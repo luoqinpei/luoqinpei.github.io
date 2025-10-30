@@ -23,6 +23,7 @@ Hello! My name is Qinpei Luo (In Chinese: 罗钦培), and you can just call me S
 
 Previously, I earned my Bachelor's degree in Electronics Information Engineering from School of Electronics Engineering and Computer Science, Peking University, where I am honored to be advised by [Dr. Boya Di](https://sites.google.com/view/boya-di/homepage) from School of Electronics, Peking University.
 
+I also had the previlegde to work closely with [Dr. Lili Qiu](https://www.cs.utexas.edu/~lili/) from University of Texas, Austin and Microsoft Research Asia.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
