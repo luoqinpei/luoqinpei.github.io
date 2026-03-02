@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-26
+date: 2026-03-02
 inline: true
 related_posts: false
 ---
 
-I had a wonderful internship at Mircorsoft Research Asia in Shanghai this summer!
+Our work "IoTGen: Towards LLM-diriven IoT Hardware Generation" is accpeted by Mobisys 2026.

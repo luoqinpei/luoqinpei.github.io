@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our demo *Meta2Locate: Meta Surface Enabled Indoor Localization in Dynamic Environments* 
-
-is accepted to *Mobihoc 2023*.
+Our demo *Meta2Locate: Meta Surface Enabled Indoor Localization in Dynamic Environments* is accepted to *Mobihoc 2023*.

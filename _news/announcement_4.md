@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2023-11-2
+date: 2024-1-15
 inline: true
 related_posts: false
 ---
 
-Our article about 3GPP standardization on extended reality has been released on *GetMobile* as the cover article.
+Our work *Meta-Critic Reinforcement Learning for Intelligent Omnidirectional Surface Assisted Multi-User Communications* 
+
+is accepted to *Transactions on Wireless Communications*. 
