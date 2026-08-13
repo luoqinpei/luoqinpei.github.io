@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Qinpei Luo (In Chinese: 罗钦培). I am a second year PhD student in the department of Electrical and Computer Engineering in the University of California, San Diego. I am now advised by [Dr. Xinyu Zhang](http://xyzhang.ucsd.edu) from University of California, San Diego. My major interest lies in mobile computing and wireless networks, especially the implementation of machine learning on these topics.
+Hello! My name is Qinpei Luo (In Chinese: 罗钦培). I am a second year PhD student in the department of Electrical and Computer Engineering in the University of California, San Diego. I am now advised by [Dr. Xinyu Zhang](http://xyzhang.ucsd.edu), San Diego. My major interest lies in mobile computing and wireless networks, especially their intersections with advanced artificial intelligence.
 
-Previously, I earned my Bachelor's degree in Electronics Information Engineering from School of Electronics Engineering and Computer Science, Peking University, where I am honored to be advised by [Dr. Boya Di](https://sites.google.com/view/boya-di/homepage) from School of Electronics, Peking University.
+Previously, I earned my Bachelor's degree in Electronics Information Engineering from School of Electronics Engineering and Computer Science, [Peking University](https://english.pku.edu.cn), where I am honored to be advised by [Dr. Boya Di](https://sites.google.com/view/boya-di/homepage).
 
 I also had the previlegde to work closely with [Dr. Lili Qiu](https://www.cs.utexas.edu/~lili/) from University of Texas, Austin and Microsoft Research Asia.
 
